@@ -1,1 +1,3 @@
 # Youtubesong_analysis_powerBI
+YouTube Song Data Analysis
+In this project, I conducted a comprehensive analysis of YouTube song data, focusing on trends in song popularity, genre preferences, and audience engagement. The analysis covered key metrics such as view counts, likes, and comments, which were extracted, processed, and visualized. The insights provided valuable patterns in audience behavior and song characteristics, offering actionable recommendations for content creators and marketers. All findings were compiled into a professional PDF presentation to inform strategy and enhance content performance.
